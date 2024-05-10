@@ -1,6 +1,8 @@
 package io.muic.ooc.fab;
 
-public class Main {
+import io.muzoo.ssc.assignment.tracker.SscAssignment;
+
+public class Main extends SscAssignment {
 
     public static void main(String[] args) {
         var simulator = new Simulator();
